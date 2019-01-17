@@ -48,3 +48,8 @@ You can get older versions via [https://github.com/lijiejie/subDomainsBrute/rele
 Output could be like: [https://github.com/lijiejie/subDomainsBrute/blob/master/dict/sample_qq.com.txt](https://github.com/lijiejie/subDomainsBrute/blob/master/dict/sample_qq.com.txt)
 
 From [http://www.lijiejie.com](http://www.lijiejie.com)
+
+
+## Changes in this fork
+
+Add support for Python 3.
